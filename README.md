@@ -25,4 +25,4 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
 </div><br/>
 
-![Snake animation](https://github.com/FelipeBZanardo/FelipeBZanardo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FelipeBZanardo/FelipeBZanardo/blob/output/github-contribution-grid-snake.svg)
