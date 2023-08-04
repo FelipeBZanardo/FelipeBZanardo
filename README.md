@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou à procura do primeiro emprego na área de tecnologia;
 - 🌱 Hoje estou aprendendo Angular!
-- 📝 Participo do Programa Santander Coders - Web Full Stack;
+- 📝 Concluído Programa Santander Coders - Web Full Stack;
 - 🧑‍🎓 Formado em Engenharia Elétrica;
 - ❤️ Apaixonado por esportes.
 
