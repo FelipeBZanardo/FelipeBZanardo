@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Felipe Zanardo 👋
 
 - 🔭 Atualmente estou à procura do primeiro emprego na área de tecnologia;
-- 🌱 Hoje estou aprendendo Angular!
-- 📝 Concluído Programa Santander Coders - Web Full Stack;
+- 🌱 Hoje estou aprendendo Python e Ciência de Dados!
+- 📝 Programa Santander Coders 2022 by Ada - Web Full Stack - Concluído;
+- 📝 Programa Santander Coders 2023 by DIO - Ciência de Dados com Python - Em andamento;
 - 🧑‍🎓 Formado em Engenharia Elétrica;
 - ❤️ Apaixonado por esportes.
 
@@ -23,5 +24,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python" /> 
 </div><br/>
 
