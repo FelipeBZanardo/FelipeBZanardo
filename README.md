@@ -1,10 +1,11 @@
 ### Olá! Eu sou o Felipe Zanardo 👋
 
 - 🔭 Atualmente estou à procura do primeiro emprego na área de tecnologia;
-- 🌱 Hoje estou aprendendo Python e Ciência de Dados!
+- 🌱 Hoje estou aprendendo Python e Engenharia de Dados!
 - 📝 Programa Santander Coders 2022 by Ada - Web Full Stack - Concluído;
-- 📝 Programa Santander Coders 2023 by DIO - Ciência de Dados com Python - Em andamento;
-- 🧑‍🎓 Formado em Engenharia Elétrica;
+- 📝 Programa Santander Coders 2023 by DIO - Ciência de Dados com Python - Concluído;
+- 📝 Programa Santander Coders 2024 by Ada - Engenharia de Dados com Python - Em andamento;
+- 🧑‍🎓 Formado com honrarias em Engenharia Elétrica pela FEI;
 - ❤️ Apaixonado por esportes.
 
 <br>
