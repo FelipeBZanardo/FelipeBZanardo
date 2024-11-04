@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Zanardo 👋
 
-- 🔭 Atualmente estou à procura do primeiro emprego na área de tecnologia;
+- 🔭 Futuro Agente de Tecnologia da Caixa Econômica Federal;
 - 🌱 Hoje estou aprendendo Python e Engenharia de Dados!
 - 📝 Programa Santander Coders 2022 by Ada - Web Full Stack - Concluído;
 - 📝 Programa Santander Coders 2023 by DIO - Ciência de Dados com Python - Concluído;
