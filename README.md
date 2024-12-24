@@ -4,7 +4,7 @@
 - 🌱 Hoje estou aprendendo Python e Engenharia de Dados!
 - 📝 Programa Santander Coders 2022 by Ada - Web Full Stack - Concluído;
 - 📝 Programa Santander Coders 2023 by DIO - Ciência de Dados com Python - Concluído;
-- 📝 Programa Santander Coders 2024 by Ada - Engenharia de Dados com Python - Em andamento;
+- 📝 Programa Santander Coders 2024 by Ada - Engenharia de Dados com Python - Concluído;
 - 🧑‍🎓 Formado com honrarias em Engenharia Elétrica pela FEI;
 - ❤️ Apaixonado por esportes.
 
